@@ -27,6 +27,10 @@ li {
 
 /* Exercice 04 */
 
+.exercice04 ul + p {
+    color: red;
+}
+
 
 /* Exercice 05 */
 
