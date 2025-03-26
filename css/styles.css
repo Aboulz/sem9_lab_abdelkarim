@@ -73,6 +73,10 @@ a[href^="https://"]::after {
 
 /* Exercice 10 */
 
+.exercice10 li:nth-child(n +14):nth-child(-n +23){
+    background-color: red;
+}
+
 
 /* Exercice 11 */
 
