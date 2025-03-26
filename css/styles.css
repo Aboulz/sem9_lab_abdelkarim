@@ -9,6 +9,12 @@ li {
 
 /* Exercice 02 */
 
+.exercice02 blockquote::first-letter {
+    color: red;
+    font-size: 3.125rem;
+    
+}
+
 
 /* Exercice 03 */
 
