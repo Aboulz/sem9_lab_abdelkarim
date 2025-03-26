@@ -34,8 +34,14 @@ ul + p {
 
 /* Exercice 05 */
 
-
-
+a[href]::after {
+    content: 'open_in_new';
+    display: inline-block;
+    font-family: 'Material Icons';
+    font-size: 1.4rem;
+    line-height: 1;
+    margin-left: 5px;
+}
 
 /* Exercice 06 */
 
