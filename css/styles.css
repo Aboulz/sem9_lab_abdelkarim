@@ -45,8 +45,16 @@ a[href^="https://"]::after {
 
 /* Exercice 06 */
 
+.exercice06 li:nth-child(even) {
+    color: red;
+}
+
 
 /* Exercice 07 */
+
+.exercice07 li:nth-child(odd) {
+    color: red;
+}
 
 
 /* Exercice 08 */
