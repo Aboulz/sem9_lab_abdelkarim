@@ -101,6 +101,12 @@ a[href^="https://"]::after {
 
 /* Exercice 14 */
 
+a:hover{
+    color: black;
+    background-color: #BF2A2A;
+    border-bottom: 3px solid black;
+}
+
 
 /* Exercice 15 */
 
