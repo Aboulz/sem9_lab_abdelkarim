@@ -80,8 +80,16 @@ a[href^="https://"]::after {
 
 /* Exercice 11 */
 
+.exercice11 ul{
+    border: 3px solid red;
+}
+
 
 /* Exercice 12 */
+
+.exercice12 ul > li:hover {
+    border: 3px solid red;
+}
 
 
 /* Exercice 13 */
