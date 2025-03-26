@@ -27,12 +27,14 @@ li {
 
 /* Exercice 04 */
 
-.exercice04 ul + p {
+ul + p {
     color: red;
 }
 
 
 /* Exercice 05 */
+
+
 
 
 /* Exercice 06 */
