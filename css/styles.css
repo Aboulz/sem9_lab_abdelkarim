@@ -18,6 +18,12 @@ li {
 
 /* Exercice 03 */
 
+.exercice03 blockquote::first-line {
+    color: red;
+    font-weight: bold;
+    
+}
+
 
 /* Exercice 04 */
 
