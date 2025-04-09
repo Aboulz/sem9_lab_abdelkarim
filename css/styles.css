@@ -137,7 +137,7 @@ input:checked + label {
   
 /* Exercice 18 */
 
-.last-letter {
+h1 .last-letter {
     color: #640101;
     font-weight: bold;
   }
