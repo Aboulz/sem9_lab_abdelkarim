@@ -123,6 +123,12 @@ p::selection{
 /* Exercice 16 */
 
 
+p:not([lang="fr"]) {
+    color: red;
+  }
+  
+
+
 /* Exercice 17 */
 
 
