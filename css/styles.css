@@ -109,6 +109,15 @@ a:hover{
 
 
 /* Exercice 15 */
+h2::selection{
+    background-color: black;
+    color: white;
+}
+
+p::selection{
+    background-color: gray;
+    color: white;
+}
 
 
 /* Exercice 16 */
