@@ -135,13 +135,13 @@ input:checked + label {
     color: red;
   }
   
-
-
 /* Exercice 18 */
 
-
-
-
+.last-letter {
+    color: #640101;
+    font-weight: bold;
+  }
+  
 
 
 /*-------------------------------------------
