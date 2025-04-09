@@ -131,6 +131,11 @@ p:not([lang="fr"]) {
 
 /* Exercice 17 */
 
+input:checked + label {
+    color: red;
+  }
+  
+
 
 /* Exercice 18 */
 
